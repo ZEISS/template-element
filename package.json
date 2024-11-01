@@ -29,7 +29,7 @@
   ],
   "devDependencies": {
     "@github/prettier-config": "0.0.6",
-    "chai": "^4.3.4",
+    "chai": "^5.1.2",
     "chromium": "^3.0.3",
     "eslint": "^8.6.0",
     "eslint-plugin-github": "^5.0.2",
