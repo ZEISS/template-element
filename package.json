@@ -28,7 +28,7 @@
     "dist"
   ],
   "devDependencies": {
-    "@github/prettier-config": "0.0.4",
+    "@github/prettier-config": "0.0.6",
     "chai": "^4.3.4",
     "chromium": "^3.0.3",
     "eslint": "^8.6.0",
