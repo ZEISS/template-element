@@ -9,7 +9,7 @@ declare global {
   }
 }
 
-class ExampleElement extends HTMLElement {
+export class ExampleElement extends HTMLElement {
   constructor() {
     super()
   }
@@ -20,3 +20,7 @@ class ExampleElement extends HTMLElement {
 }
 
 customElements.define('example-element', ExampleElement)
+
+export const defineExampleElement = () => {
+  customElements.define('example-element', ExampleElement)
+}
