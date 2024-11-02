@@ -1,5 +1,5 @@
 {
-  "name": "template-element",
+  "name": "@htmx/template-element",
   "version": "1.0.0",
   "description": "A custom element for adding a toolbar to a textarea for markdown editing.",
   "repository": "zeiss/template-element",
